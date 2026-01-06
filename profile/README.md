@@ -140,9 +140,9 @@ fable/
 You can run **app** and **api** locally for core demo creation and editing functionality. Note that AI-powered features require the **jobs** service, which depends on AWS SQS.
 
 For detailed setup instructions, refer to the component-specific READMEs:
-- **[Frontend Setup](../app/README.md)** - Installation, configuration, and running the app
-- **[API Setup](../api/README.md)** - Database setup, environment configuration, and running the server
-- **[Jobs Setup](../jobs/README.md)** - SQS configuration and running the jobs service
+- **[Frontend Setup](https://github.com/sharefable/app)** - Installation, configuration, and running the app
+- **[API Setup](https://github.com/sharefable/api)** - Database setup, environment configuration, and running the server
+- **[Jobs Setup](https://github.com/sharefable/jobs)** - SQS configuration and running the jobs service
 
 ### Limited Functionality Without Jobs
 
